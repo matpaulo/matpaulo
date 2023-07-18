@@ -1,14 +1,10 @@
 ### Olá, sejá bem-vindo ao meu perfil no GitHub 👋
 
-<br>
-
  <div>
    <a href="https://github.com/matpaulo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matpaulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matpaulo&layout=compact&langs_count=6&theme=dracula"/>
 </div>
-
-<br>
      
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
@@ -16,9 +12,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
- 
- <br>
- 
+
   ### Para saber mais me siga nas minhas redes sociais ou entre em contato!
  
 <div> 
