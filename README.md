@@ -1,4 +1,4 @@
-### Olá, sejá bem-vindo ao meu perfil no GitHub 👋
+### Olá, sejá muito bem-vindo ao meu perfil no GitHub 👋
 
  <div>
    <a href="https://github.com/matpaulo">
