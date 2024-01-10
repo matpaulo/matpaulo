@@ -20,8 +20,8 @@
   ### Para saber mais me siga nas minhas redes sociais ou entre em contato!
  
 <div> 
-  <a href="https://www.instagram.com/mathh_paulo/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-nogueira-291828210/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="contatomatheuspaulo1@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://docs.google.com/document/d/1-3iIwgKjMjqMh-DCO9nX_dDnduhGLFg2oNl0mCutsOM/edit"><img src="https://img.shields.io/badge/Curriculo-green">
+  <a href="https://www.instagram.com/mathh_paulo/" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-pink" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-nogueira-291828210/" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-blue" target="_blank"></a>
+  <a href="contatomatheuspaulo1@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/GMAIL-red" target="_blank"></a>
+  <a href="https://docs.google.com/document/d/1-3iIwgKjMjqMh-DCO9nX_dDnduhGLFg2oNl0mCutsOM/edit"><img src="https://img.shields.io/badge/CURRICULO-green">
 </div>
