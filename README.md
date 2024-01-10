@@ -20,7 +20,7 @@
   ### Para saber mais me siga nas minhas redes sociais ou entre em contato!
  
 <div> 
-  <a href="https://www.instagram.com/mathh_paulo/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-pink" width=10% height=30px></a>
+  <a href="https://www.instagram.com/mathh_paulo/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-pink-font-white" width=10% height=30px></a>
   <a href="https://www.linkedin.com/in/matheus-paulo-291828210" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue"  width=10% height=30px"></a>
   <a href="https://docs.google.com/document/d/1-3iIwgKjMjqMh-DCO9nX_dDnduhGLFg2oNl0mCutsOM/edit" target="_blank"><img src="https://img.shields.io/badge/CURRICULO-green"  width=10% height=30px></a>
 </div>
