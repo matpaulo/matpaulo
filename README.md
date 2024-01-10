@@ -22,6 +22,5 @@
 <div> 
   <a href="https://www.instagram.com/mathh_paulo/"><img src="https://img.shields.io/badge/INSTAGRAM-pink" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-nogueira-291828210/" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-blue" target="_blank"></a>
-  <a href="contatomatheuspaulo1@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/GMAIL-red" target="_blank"></a>
-  <a href="https://docs.google.com/document/d/1-3iIwgKjMjqMh-DCO9nX_dDnduhGLFg2oNl0mCutsOM/edit"><img src="https://img.shields.io/badge/CURRICULO-green">
+  <a href="https://docs.google.com/document/d/1-3iIwgKjMjqMh-DCO9nX_dDnduhGLFg2oNl0mCutsOM/edit"><img src="https://img.shields.io/badge/CURRICULO-green"></a>
 </div>
