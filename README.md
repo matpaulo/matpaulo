@@ -7,20 +7,20 @@
 </div>
      
 <div style="display: inline_block"><br>
-  <img align="center" alt="VSCode" height="30" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg"> 
 </div>
 
   ### Para saber mais me siga nas minhas redes sociais ou entre em contato!
  
 <div> 
-  <a href="https://www.instagram.com/mathh_paulo/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-pink" width=10% height=30px></a>
-  <a href="https://www.linkedin.com/in/matheus-paulo-291828210" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue"  width=10% height=30px"></a>
-  <a href="https://docs.google.com/document/d/1-3iIwgKjMjqMh-DCO9nX_dDnduhGLFg2oNl0mCutsOM/edit" target="_blank"><img src="https://img.shields.io/badge/CURRICULO-green"  width=10% height=30px></a>
+  <a href="https://www.instagram.com/mathh_paulo/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-pink" width=10% height=25px></a>
+  <a href="https://www.linkedin.com/in/matheus-paulo-291828210" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue" width=10% height=25px"></a>
+  <a href="https://docs.google.com/document/d/1-3iIwgKjMjqMh-DCO9nX_dDnduhGLFg2oNl0mCutsOM/edit" target="_blank"><img src="https://img.shields.io/badge/CURRICULO-green" width=10% height=25px></a>
 </div>
