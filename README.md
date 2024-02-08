@@ -22,5 +22,5 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/matheus-paulo-291828210" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center" alt="LinkedIn" height="30" width="40"></a>
-  <a href="https://docs.google.com/document/d/1-3iIwgKjMjqMh-DCO9nX_dDnduhGLFg2oNl0mCutsOM/edit" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original.svg"  align="center" alt="Curriculo" height="30" width="40"></a>
+  <a href="https://docs.google.com/document/d/1-3iIwgKjMjqMh-DCO9nX_dDnduhGLFg2oNl0mCutsOM/edit?usp=sharing" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original.svg"  align="center" alt="Curriculo" height="30" width="40"></a>
 </div>
