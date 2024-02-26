@@ -21,7 +21,7 @@
   <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"> 
 </div>
 
-### Para saber mais me siga nas minhas redes sociais ou entre em contato!
+### My social network are below!
  
 <div> 
   <a href="https://www.linkedin.com/in/matheus-paulo-291828210" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center" alt="LinkedIn" height="30" width="40"></a>
