@@ -1,5 +1,8 @@
-### Olá, sejá muito bem-vindo ao meu perfil no GitHub 👋
-
+  
+ ### Hello, welcome to my profile on GitHub! 👋
+  <p>I am a developer that works in front-end, working with tools and frameworks JavaScript.</p>
+ 
+ 
  <div>
    <a href="https://github.com/matpaulo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matpaulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,7 +21,7 @@
   <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"> 
 </div>
 
-  ### Para saber mais me siga nas minhas redes sociais ou entre em contato!
+### Para saber mais me siga nas minhas redes sociais ou entre em contato!
  
 <div> 
   <a href="https://www.linkedin.com/in/matheus-paulo-291828210" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center" alt="LinkedIn" height="30" width="40"></a>
