@@ -1,6 +1,6 @@
   
  ### Hello, welcome to my profile on GitHub! 👋
-  <p>I am a developer that works in front-end, working with tools and frameworks JavaScript.</p>
+  <p>Working with front-end...</p>
  
  
  <div>
