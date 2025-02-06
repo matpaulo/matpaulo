@@ -4,8 +4,7 @@
   <p align="center"">Currently a Software Analyst and learning some skill to become a Full Stack Developer</p>
   
  <div align="center">
-   <a href="https://github.com/matpaulo">
-   <img height="180em" alt="Git informations"src="https://github-readme-stats.vercel.app/api?username=matpaulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+   <img height="200em" alt="Git informations"src="https://github-readme-stats.vercel.app/api?username=matpaulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
    <img height="200em" alt="Stack of my projects" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matpaulo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
