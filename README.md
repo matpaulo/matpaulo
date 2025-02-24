@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img height="300em" alt="Stack of my projects" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matpaulo&layout=compact&langs_count=6&theme=tokyonight"/>
+        <img height="350rem" alt="Stack of my projects" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matpaulo&layout=compact&langs_count=6&theme=tokyonight"/>
       </td>
       <td>
         <p>Welcome to my profile on GitHub! 👋</p>
@@ -13,8 +13,8 @@
       </td>
     </tr>
     <tr>
-      <td>
-        <p>My Stack:</p>
+      <td valign="top">
+        <p><strong>My Stack:</strong></p>
         <div style="display: inline_block">
           <img alt="VSCode" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
           <img alt="Git" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -26,8 +26,8 @@
           <img alt="DotnetCore" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"> 
         </div>
       </td>
-      <td>
-        <p>Contact Me:</p>
+      <td valign="top">
+        <p><strong>Contact Me:</strong></p>
         <div style="display: inline_block"> 
           <a href="https://www.linkedin.com/in/matheus-paulo-291828210" target="_blank">
           <img alt="LinkedIn" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
