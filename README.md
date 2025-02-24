@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img height="350rem" alt="Stack of my projects" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matpaulo&layout=compact&langs_count=6&theme=tokyonight"/>
+        <img height="320rem" alt="Stack of my projects" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matpaulo&layout=donut-vertical&langs_count=6&theme=tokyonight"/>
       </td>
       <td>
         <p>Welcome to my profile on GitHub! 👋</p>
