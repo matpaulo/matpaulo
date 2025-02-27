@@ -4,7 +4,7 @@
       <td>
         <img height="320rem" alt="Stack of my projects" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matpaulo&layout=donut-vertical&langs_count=6&theme=tokyonight"/>
       </td>
-      <td>
+      <td width="600rem">
         <p>Welcome to my profile on GitHub! 👋</p>
         <p>Hello, my name is Matheus. 🧑‍💻</p>
         <p>Currently a Software Analyst and a Full Stack Developer. 💻</p>
