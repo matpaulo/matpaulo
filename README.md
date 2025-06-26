@@ -10,7 +10,7 @@
     <img alt="C#" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     <img alt="DotNetCore" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
     <img alt="React" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
-    <img alt="Next.js" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" />
+    <img alt="Next.js" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img alt="Bootstrap" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
     <img alt="Tailwind" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img alt="Git" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
